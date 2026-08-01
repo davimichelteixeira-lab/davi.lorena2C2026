@@ -1,0 +1,41 @@
+body {
+    background-color: #ece68c;
+    color: #1a1919;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+header {
+    background-color: #bcdd60;
+    padding: 20px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+nav {
+    margin: 20px 0;
+}
+
+main {
+    background-color: #bcdd60;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+
+footer {
+    background-color: #9b9be2;
+    margin-top: 20px;
+    border-top: 1px solid #141414;
+    padding: 10px;
+}
+
+img {
+    width: 400px;
+    border-radius: 30px;
+text-align: center;
+margin: center;
+margin-left: auto;
+    margin-right: auto;
+}
