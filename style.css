@@ -1,12 +1,12 @@
 body {
-    background-color: #ffffff;
+    background-color: #352880;
     color: #1a1919;
     font-family: Arial, sans-serif;
     margin: 20px;
 }
 
 header {
-    background-color: #76b6cf;
+    background-color: #f8fcfd;
     padding: 20px;
     border-radius: 20px;
     text-align: center;
@@ -25,7 +25,7 @@ main {
 }
 
 footer {
-    background-color: rgb(172, 172, 158);
+    background-color: #665;
     margin-top: 20px;
     border-top: 1px solid #141414;
     padding: 10px;
